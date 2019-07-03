@@ -1,0 +1,10 @@
+E:\CK_Project_2019\getCookieWinForm\getCookieWinForm\getCookieWinForm\obj\Debug\getCookieWinForm.MainWindow.resources
+E:\CK_Project_2019\getCookieWinForm\getCookieWinForm\getCookieWinForm\obj\Debug\getCookieWinForm.Properties.Resources.resources
+E:\CK_Project_2019\getCookieWinForm\getCookieWinForm\getCookieWinForm\obj\Debug\getCookieWinForm.csproj.GenerateResource.cache
+E:\CK_Project_2019\getCookieWinForm\getCookieWinForm\getCookieWinForm\obj\Debug\getCookieWinForm.csproj.CoreCompileInputs.cache
+E:\CK_Project_2019\getCookieWinForm\getCookieWinForm\getCookieWinForm\bin\Debug\getCookieWinForm.exe.config
+E:\CK_Project_2019\getCookieWinForm\getCookieWinForm\getCookieWinForm\bin\Debug\getCookieWinForm.exe
+E:\CK_Project_2019\getCookieWinForm\getCookieWinForm\getCookieWinForm\bin\Debug\getCookieWinForm.pdb
+E:\CK_Project_2019\getCookieWinForm\getCookieWinForm\getCookieWinForm\obj\Debug\getCookieWinForm.exe
+E:\CK_Project_2019\getCookieWinForm\getCookieWinForm\getCookieWinForm\obj\Debug\getCookieWinForm.pdb
+E:\CK_Project_2019\getCookieWinForm\getCookieWinForm\getCookieWinForm\obj\Debug\getCookieWinForm.csprojAssemblyReference.cache
